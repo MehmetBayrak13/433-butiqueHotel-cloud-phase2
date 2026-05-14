@@ -1,7 +1,8 @@
 """
+Atilim University - Cloud Computing Assignment
+Simple in-memory app, no database used
 Boutique Hotel Chain - Cloud Booking Platform
-A Flask web application demonstrating cloud-based hotel management.
-Designed for deployment on AWS EC2 (IaaS) as a university cloud computing project.
+Designed for deployment on AWS EC2 (IaaS)
 """
 
 from flask import Flask, request, jsonify
