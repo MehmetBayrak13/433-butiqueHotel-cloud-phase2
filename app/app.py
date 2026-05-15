@@ -515,4 +515,4 @@ if __name__ == "__main__":
     print("  Running on http://0.0.0.0:5000")
     print("  Cloud Computing Project | AWS EC2 Deployment")
     print("=" * 60)
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    app.run(host="0.0.0.0", port=5050, debug=False)
