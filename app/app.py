@@ -230,7 +230,7 @@ def homepage():
     <header>
         <h1>&#127968; Boutique Hotel Chain</h1>
         <p>Cloud-Based Direct Booking Platform</p>
-        <p class="tagline">University Cloud Computing Project &mdash; Deployed on AWS EC2 (IaaS)</p>
+        <p class="tagline"> Atilim University Cloud Computing Project &mdash; Deployed on AWS EC2 (IaaS)</p>
     </header>
 
     <div class="card-grid">
